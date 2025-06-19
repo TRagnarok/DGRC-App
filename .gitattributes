@@ -1,0 +1,9 @@
+# Normalize line endings
+* text=auto eol=lf
+
+# Treat images as binary
+*.png binary
+*.jpg binary
+
+# JavaScript files as text
+*.js text
